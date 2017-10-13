@@ -1,7 +1,7 @@
 <template>
 	<v-container grid-list-xl text-xs-center class='blue-grey darken-1' style='width:100%;'>
 		<v-flex xs10 offset-xs1>
-	        <v-card>
+	        <v-card class='card'>
 	          <img src='../assets/default-photo.jpg'>
 	          <h3>Hi, I'm Lauren</h3>
 	          <blackquote>

@@ -1,7 +1,7 @@
 <template>
 	<v-container grid-list-xl text-xs-center class='blue-grey darken-1' style='width:100%;'>
 		<v-flex xs10 offset-xs1>
-	        <v-card style='padding: 25px;'>
+	        <v-card class='card'>
 	        	<h3>Say hello</h3>
 				<form>
 				    <v-text-field

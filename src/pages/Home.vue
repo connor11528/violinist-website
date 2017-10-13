@@ -3,7 +3,7 @@
 	<v-parallax src="./src/assets/play-violin-1.jpeg" height='500'>
 		<v-layout column align-center justify-center>
 			<h1 class="grey--text text--darken-3">Hi I'm Lauren</h1>
-			<h5>Lauren is a violinist and composer based out of Mill Valley, CA currently applying to colleges</h5>
+			<h5>Lorem ipsum dolor sit amet, brute iriure accusata ne mea. Eos suavitate referrentur ad, te duo agam libris qualisque, utroque quaestio accommodare no qui. Et percipit laboramus usu, no invidunt verterem nominati mel.</h5>
 			<v-btn color="secondary" to='/about' router>About</v-btn>
 		</v-layout>
 	</v-parallax>

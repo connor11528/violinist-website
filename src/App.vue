@@ -3,7 +3,7 @@
     <v-app>
       <nav-bar></nav-bar>
       
-      <main>
+      <main class='blue-grey darken-1'>
         <router-view></router-view>
       </main>
     </v-app>

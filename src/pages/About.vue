@@ -1,7 +1,18 @@
 <template>
-<div>
-<h1>About</h1>
-</div>
+	<v-container grid-list-xl text-xs-center class='blue-grey darken-1' style='width:100%;'>
+		<v-flex xs10 offset-xs1>
+	        <v-card>
+	          <img src='../assets/default-photo.jpg'>
+	          <h3>Hi, I'm Lauren</h3>
+	          <blackquote>
+	          	Lorem ipsum dolor sit amet, brute iriure accusata ne mea. Eos suavitate referrentur ad, te duo agam libris qualisque, utroque quaestio accommodare no qui. Et percipit laboramus usu, no invidunt verterem nominati mel. Dolorem ancillae an mei, ut putant invenire splendide mel, ea nec propriae adipisci. 
+	          </blackquote>
+	          <p>Lorem ipsum dolor sit amet, brute iriure accusata ne mea. Eos suavitate referrentur ad, te duo agam libris qualisque, utroque quaestio accommodare no qui. Et percipit laboramus usu, no invidunt verterem nominati mel. Dolorem ancillae an mei, ut putant invenire splendide mel, ea nec propriae adipisci. Ignota salutandi accusamus in sed, et per malis fuisset, qui id ludus appareat.</p>
+
+			  <p>Lorem ipsum dolor sit amet, brute iriure accusata ne mea. Eos suavitate referrentur ad, te duo agam libris qualisque, utroque quaestio accommodare no qui. Et percipit laboramus usu, no invidunt verterem nominati mel. Dolorem ancillae an mei, ut putant invenire splendide mel, ea nec propriae adipisci. Ignota salutandi accusamus in sed, et per malis fuisset, qui id ludus appareat.</p>
+	        </v-card>
+	      </v-flex>
+	</v-container>
 </template>
 
 <script>

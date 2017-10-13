@@ -1,7 +1,7 @@
 <template>
 	<v-toolbar class='grey darken-1'>
 		<v-toolbar-title>
-			<router-link to='/' id='titlelink'>Name Here</router-link>
+			<router-link to='/' id='titlelink'>Lauren Vandervelden</router-link>
 		</v-toolbar-title>
 
 		<v-spacer></v-spacer>
@@ -19,6 +19,7 @@
 			<v-btn flat to='/about' router class='white--text'>About</v-btn>
 			<v-btn flat to='/contact' router class='white--text'>Contact</v-btn>
 			<v-btn flat to='/compositions' router class='white--text'>Compositions</v-btn>
+			<v-btn flat to='/events' router class='white--text'>Events</v-btn>
 		</v-toolbar-items>
 	</v-toolbar>
 </template>
@@ -32,7 +33,7 @@
 export default {
 	data: () => ({
       navmenu: [
-        'About', 'Contact', 'Compositions'
+        'About', 'Contact', 'Compositions', 'Events'
       ]
     })
 }

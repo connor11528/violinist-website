@@ -3,7 +3,7 @@
     <v-app>
       <nav-bar></nav-bar>
       
-      <main class='blue-grey darken-1'>
+      <main :class='(currentPath == "/events")? "musical-note-background" : "blue-grey darken-1"'>
         <router-view></router-view>
       </main>
     </v-app>
@@ -18,14 +18,17 @@ export default {
   components: {
     NavBar
   },
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
+  computed: {
+      currentPath(){
+        console.log(this.$route.path)
+        return this.$route.path
+      }
   }
 }
 </script>
 
 <style lang="scss">
-
+.musical-note-background {
+  background: url('./assets/musical-notes-2.jpeg')
+}
 </style>

@@ -8,9 +8,9 @@
 	          	Lauren Vandervelden (b. 1999), composer and violinist, studies composition with Philip Wharton of New York City, and violin with Sarn Oliver, a first violinist in the San Francisco Symphony.
 	          </blockquote>
 
-			  <p>A high school senior, Lauren grew up in Boise, Idaho and recently moved to the Bay Area. She has received national awards in composition, including recognition from BMI, ASCAP, Tribeca New Music, MTNA, NFMC, NAfME, and the Frost School of Music.</p> 
+			  	<p>A high school senior, Lauren grew up in Boise, Idaho and recently moved to the Bay Area. She has received national awards in composition, including recognition from BMI, ASCAP, Tribeca New Music, MTNA, NFMC, NAfME, and the Frost School of Music.</p> 
 
-			  <p>Lauren’s compositions have been performed at MTNA and NAfME’s national conferences in Baltimore and Dallas respectively; Ebb and Flow Arts Violin Synergy Festival in Maui, Hawaii; and the Tribeca New Music Young Composers Concert in New York City.  Additionally, the Boise Philharmonic Youth Orchestra premiered one of her symphonic works.</p>
+			  	<p>Lauren’s compositions have been performed at MTNA and NAfME’s national conferences in Baltimore and Dallas respectively; Ebb and Flow Arts Violin Synergy Festival in Maui, Hawaii; and the Tribeca New Music Young Composers Concert in New York City.  Additionally, the Boise Philharmonic Youth Orchestra premiered one of her symphonic works.</p>
 
 				<p>Lauren currently attends the John Adams Young Composers Program in Berkeley, where she studies with Matthew Cmiel, as well as the San Francisco Symphony Youth Orchestra Young Composers program led by Nathaniel Stookey.  In addition to her continuing composition studies, Lauren has studied with Stephen Coxe, Eric Nathan, Christopher Theofanidis, and David Ludwig.  She is a member of BMI.</p>
 

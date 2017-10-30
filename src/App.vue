@@ -3,7 +3,7 @@
     <v-app>
       <nav-bar></nav-bar>
       
-      <main :class='(currentPath == "/events")? "musical-note-background" : "blue-grey darken-1"'>
+      <main :class='currentClass'>
         <router-view></router-view>
       </main>
     </v-app>
@@ -20,8 +20,18 @@ export default {
   },
   computed: {
       currentPath(){
-        console.log(this.$route.path)
         return this.$route.path
+      },
+      currentClass(){
+        if (this.currentPath == "/events"){
+          return "musical-note-background";
+        }
+
+        if(this.currentPath == "/about" || this.currentPath == "/contact" || this.currentPath == "/compositions"){
+          return "blue-grey darken-1"
+        } else {
+          return ""
+        }
       }
   }
 }

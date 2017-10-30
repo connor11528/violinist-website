@@ -1,7 +1,7 @@
 <template>
 	<v-container grid-list-xl text-xs-center style='width:100%;'>
 		<v-flex xs10 offset-xs1>
-	        <v-card class='blue-grey darken-1'>
+	        <v-card>
 	        	<h3>Recent and Upcoming Events</h3>
 	        </v-card>
 
@@ -105,7 +105,7 @@
 			  <br>
 
 			<v-expansion-panel style='cursor:text;'>
-			    <v-expansion-panel-content hide-actions='true' style='cursor:text;'>
+			    <v-expansion-panel-content :hide-actions='true' style='cursor:text;'>
 			      <div slot="header" style='cursor:text;'>
 			      	<h4>
 			      		Yellow Barn

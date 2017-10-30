@@ -23,7 +23,7 @@
 			        	</blockquote>
 			        </v-card-text>
 			        <v-card-text class='text-xs-center text-sm-center text-md-center'>
-			        	<v-btn flat color='primary' href='https://www.crowden.org/community-education/john-adams-young-composers-program' target='_blank'>Event link</v-btn>
+			        	<v-btn large flat color='primary' href='https://www.crowden.org/community-education/john-adams-young-composers-program' target='_blank'>Event link</v-btn>
 			        </v-card-text>
 			    </v-expansion-panel-content>
 			  </v-expansion-panel>
@@ -45,7 +45,7 @@
 					</ul>
 			      </div>
 			        <v-card-text class='text-xs-center text-sm-center text-md-center'>
-			        	<v-btn flat color='primary' href='http://www.sfsymphony.org/Youth-Family/Youth-Orchestra.aspx' target='_blank'>Event link</v-btn>
+			        	<v-btn large flat color='primary' href='http://www.sfsymphony.org/Youth-Family/Youth-Orchestra.aspx' target='_blank'>Event link</v-btn>
 			        </v-card-text>
 			    </v-expansion-panel-content>
 			  </v-expansion-panel>
@@ -75,7 +75,7 @@
 			        </blockquote>
 			      </v-card-text>
 			      <v-card-text class='text-xs-center text-sm-center text-md-center'>
-			      	<v-btn flat color='primary' href='http://www.tribecanewmusic.org/youngcomposercompetition/' target='_blank'>Event link</v-btn>
+			      	<v-btn large flat color='primary' href='http://www.tribecanewmusic.org/youngcomposercompetition/' target='_blank'>Event link</v-btn>
 			      </v-card-text>
 			    </v-expansion-panel-content>
 			  </v-expansion-panel>
@@ -98,7 +98,7 @@
 					        	<b>– Ebb and Flow Arts including</b>
 					        </blockquote>
 					      </v-card-text>
-			        	<v-btn flat color='primary' href='http://ebbandflowarts.org/' target='_blank'>Event link</v-btn>
+			        	<v-btn large flat color='primary' href='http://ebbandflowarts.org/' target='_blank'>Event link</v-btn>
 			        </v-card-text>
 			    </v-expansion-panel-content>
 			  </v-expansion-panel>
